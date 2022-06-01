@@ -1,5 +1,4 @@
-### 호2
-나만의 개발 노트: https://geneyoung.notion.site/geneyoung/9aba3dd0bbf54ce899d16c3d1c4f0365
+### 나만의 개발 노트: https://geneyoung.notion.site/geneyoung/9aba3dd0bbf54ce899d16c3d1c4f0365
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tbs01215)](https://solved.ac/tbs01215/)
 
