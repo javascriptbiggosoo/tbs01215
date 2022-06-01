@@ -3,6 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbs01215&show_icons=true&theme=radical)
 
+나만의 개발 노트: https://geneyoung.notion.site/geneyoung/9aba3dd0bbf54ce899d16c3d1c4f0365
 <!--
 **tbs01215/tbs01215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
